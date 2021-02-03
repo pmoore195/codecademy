@@ -79,3 +79,4 @@ const idInvalidCardCompanies = nestedArray => {
   return newArr;
 }
 
+console.log(valid1)
